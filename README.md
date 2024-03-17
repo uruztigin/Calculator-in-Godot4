@@ -4,6 +4,7 @@
 * I am open to any suggestions and advice and I would be grateful :D
 * Finally, I tried for days to export the application cover image for Godot4, but I could not succeed. So I am sorry that there is no special image of my application in my .exe file. I would be glad if friends with experience and experience on this subject can help :D
 
+
 (Basit bir ifadeyle, bu benim kaydetme-yükleme, yerelleştirme işlemleri ve görselleştirme için singleton ve dizileri kullanan deneysel godot projem.
 * Bu projeyi çok uzun zamandır rafta bekletiyorum. Bu projeyi bitirdiğimde godotta bazı yapıları yeni öğrendiğim için sinyalleri etkin kullanamasam da örnek olarak kullandığım yerler var. 
 * Her türlü öneri ve tavsiyeye açığım ve minnettar olurum :D
